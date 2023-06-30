@@ -1,0 +1,15 @@
+C:\Users\Thomas Saerens\source\repos\Practice_Prog3\Practice_Prog3\bin\Debug\net7.0\Practice_Prog3.exe
+C:\Users\Thomas Saerens\source\repos\Practice_Prog3\Practice_Prog3\bin\Debug\net7.0\Practice_Prog3.deps.json
+C:\Users\Thomas Saerens\source\repos\Practice_Prog3\Practice_Prog3\bin\Debug\net7.0\Practice_Prog3.runtimeconfig.json
+C:\Users\Thomas Saerens\source\repos\Practice_Prog3\Practice_Prog3\bin\Debug\net7.0\Practice_Prog3.dll
+C:\Users\Thomas Saerens\source\repos\Practice_Prog3\Practice_Prog3\bin\Debug\net7.0\Practice_Prog3.pdb
+C:\Users\Thomas Saerens\source\repos\Practice_Prog3\Practice_Prog3\obj\Debug\net7.0\Practice_Prog3.csproj.AssemblyReference.cache
+C:\Users\Thomas Saerens\source\repos\Practice_Prog3\Practice_Prog3\obj\Debug\net7.0\Practice_Prog3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas Saerens\source\repos\Practice_Prog3\Practice_Prog3\obj\Debug\net7.0\Practice_Prog3.AssemblyInfoInputs.cache
+C:\Users\Thomas Saerens\source\repos\Practice_Prog3\Practice_Prog3\obj\Debug\net7.0\Practice_Prog3.AssemblyInfo.cs
+C:\Users\Thomas Saerens\source\repos\Practice_Prog3\Practice_Prog3\obj\Debug\net7.0\Practice_Prog3.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Saerens\source\repos\Practice_Prog3\Practice_Prog3\obj\Debug\net7.0\Practice_Prog3.dll
+C:\Users\Thomas Saerens\source\repos\Practice_Prog3\Practice_Prog3\obj\Debug\net7.0\refint\Practice_Prog3.dll
+C:\Users\Thomas Saerens\source\repos\Practice_Prog3\Practice_Prog3\obj\Debug\net7.0\Practice_Prog3.pdb
+C:\Users\Thomas Saerens\source\repos\Practice_Prog3\Practice_Prog3\obj\Debug\net7.0\Practice_Prog3.genruntimeconfig.cache
+C:\Users\Thomas Saerens\source\repos\Practice_Prog3\Practice_Prog3\obj\Debug\net7.0\ref\Practice_Prog3.dll
